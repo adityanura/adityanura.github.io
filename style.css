@@ -1,0 +1,26 @@
+body{
+	background-image: url(bg.jpeg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.box{
+	width: 900px;
+	height: 1000px;
+	background: rgba(194,245,200,0.8);
+	padding-top: 50px;
+	padding-right: 30px;
+	padding-bottom: 50px;
+	padding-left: 30px;
+	margin: 30px auto;
+}
+
+.box h1{
+	font-family: "Lucida Handwriting", cursive;
+	color: mediumseagreen;
+}
+
+.box img{
+	margin-top: 20px;
+	border-radius: 50%;
+}
